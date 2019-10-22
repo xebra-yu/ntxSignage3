@@ -1,0 +1,89 @@
+{
+	"Setting": {
+		"PollingPeriod": 60,
+		"EmulatedPlugged" : 1
+
+	},
+
+	"Nfc": {
+		"LifeCycle": 5
+	},
+
+
+	"Funckey" : [
+			{
+            	"LedOnTick": 1,
+        		"LedOffTick": 1,
+				"SetByNfc": 0,
+				"UnsetByNfc": 0,
+				"NfcGroup" : 0,
+				"SuperClick": 0,
+				"NfcAutoUnset": 0
+			},
+			{
+            	"LedOnTick": 1,
+        		"LedOffTick": 0,			
+				"SetByNfc": 0,
+				"UnsetByNfc": 0,
+				"NfcGroup" : 0,
+				"SuperClick": 0,
+				"NfcAutoUnset": 0
+			},
+			{
+			    "LedOnTick": 3,
+        		"LedOffTick": 3,	
+				"SetByNfc": 1,
+				"UnsetByNfc": 1,
+				"NfcGroup" : 1,
+				"SuperClick": 0,
+				"NfcAutoUnset": 0
+			},
+			{
+			    "LedOnTick": 1,
+        		"LedOffTick": 0,			
+				"SetByNfc": 1,
+				"UnsetByNfc": 1,
+				"NfcGroup" : 1,
+				"SuperClick": 0,
+				"NfcAutoUnset": 1
+			}
+	],
+
+	"Layout": {
+        "ImageCompressionMode" : 2,
+		"BGImg": {
+			"Url": "http://nws.netronixinc.com:9090/ntxmedia/sbgt1.bin",
+			"x": 0,
+			"y": 0,
+			"w": 1200,
+			"h": 825
+		},
+
+		"PartialImageCount": 0,
+		"PartialSeqUpdate": 0,
+
+		"LocalMode": 1,
+		"UpdateLocalmage": 0,
+
+		"P1Img": {
+			"Url": "http://nws.netronixinc.com:9090/ntxmedia/l1.bin",
+			"LocalImageCompressionMode": 2
+		},
+		"P2Img": {
+			"Url": "http://nws.netronixinc.com:9090/ntxmedia/l2.bin",
+			"LocalImageCompressionMode": 2
+
+		},
+		"P3Img": {
+			"Url": "http://nws.netronixinc.com:9090/ntxmedia/l3.bin",
+			"LocalImageCompressionMode": 2
+
+		},
+		"P4Img":{
+			"Url": "http://nws.netronixinc.com:9090/ntxmedia/l4.bin",
+			"LocalImageCompressionMode": 2
+		}
+
+	}
+}
+

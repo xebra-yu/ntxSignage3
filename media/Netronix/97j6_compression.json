@@ -1,0 +1,62 @@
+{
+    "Setting": {
+        "PollingPeriod" : 60,
+		"EmulatedPlugged" : 1
+    },
+    
+    "Nfc": {
+        "LifeCycle": 5
+    },
+    
+   
+	"Funckey" : [
+			{
+            	"LedOn": 1,
+        		"SetByNfc": 0,
+				"UnsetByNfc": 0	
+			},
+			{
+            	"LedOn": 1,
+        		"SetByNfc": 0,
+				"UnsetByNfc": 0	
+			},
+			{
+			   "LedOn": 1,
+        		"SetByNfc": 1,
+				"UnsetByNfc": 1	
+			},
+			{
+			    "LedOn": 1,
+        		"SetByNfc": 1,
+				"UnsetByNfc": 1	
+			}
+	],
+
+	"Layout": {
+		"BGImg" : {
+			"Url":	"http://nws.netronixinc.com:9092/nx01286391/9_7_1_rle.bin",
+			"x": 0,
+			"y": 0,
+			"w": 1200,
+			"h": 825
+		},
+		"ImageCompressionMode":2,
+		"PartialImageCount": 0,
+
+	},
+	
+	"OTA": {
+
+		"ota_tcon": {
+
+			"ver": "v0.0.10",
+
+			"url": "http://nws.netronixinc.com:9090/ntxmedia/IT8951_3_0_10.bin"
+
+		}
+
+	}
+
+
+
+}

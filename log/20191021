@@ -1,0 +1,2 @@
+[2019-10-21 09:10:51] (GET) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com:8097/ntxcmd?mac=58:b0:d4:43:f8:9b
+[2019-10-21 10:56:26] (POST) https://cms3.dnstest.nctu.me/ntxcmd?mac=00:00:00:22:22:55&mcuver=v2.0.1&wifiver=v2.1.1&tcon=v2.0.20

@@ -1,0 +1,5 @@
+[2019-09-26 09:36:24] (GET) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com:8097/ntxcmd?mac=58:b0:d4:43:f8:9b
+[2019-09-26 10:51:34] (POST) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com/ntxcmd?mac=58:b0:d4:43:f8:9b&mcuver=v2.0.14&wifiver=v2.0.24&tconver=v2.0.13
+[2019-09-26 10:52:16] (POST) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com/ntxcmd?mac=58:b0:d4:43:f8:9b&reboot=1&updatelevel=?
+[2019-09-26 13:06:41] (GET) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com:8097/ntxcmd?mac=58:b0:d4:43:f8:9b&mcuver=v2.0.12&wifiver=v2.0.24&tconver=v2.0.13
+[2019-09-26 13:07:05] (GET) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com:8097/ntxcmd?mac=58:b0:d4:43:f8:9b&mcuver=v2.0.12&wifiver=v2.0.24&tconver=v2.0.13

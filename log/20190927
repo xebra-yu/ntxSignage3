@@ -1,0 +1,2 @@
+[2019-09-27 09:10:11] (GET) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com:8097/ntxcmd?mac=58:b0:d4:43:f8:9b
+[2019-09-27 13:22:51] (GET) http://ec2-52-221-235-171.ap-southeast-1.compute.amazonaws.com:8097/ntxcmd?mac=58:b0:d4:43:f8:9b&mcuver=v2.0.12&wifiver=v2.0.24&tconver=v2.0.13

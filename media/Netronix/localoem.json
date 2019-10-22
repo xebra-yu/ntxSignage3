@@ -1,0 +1,49 @@
+{
+	"Setting": {
+		"PollingPeriod": 60,
+		"EmulatedPlugged" : 0
+
+	},
+
+	"Nfc": {
+		"LifeCycle": 5
+	},
+
+
+	"Funckey": [{
+			"LedOn": 0,
+			"SetByNfc": 1,
+			"UnsetByNfc": 0
+		},
+		{
+			"LedOn": 0,
+			"SetByNfc": 0,
+			"UnsetByNfc": 1
+		},
+		{
+			"LedOn": 1,
+			"SetByNfc": 1,
+			"UnsetByNfc": 1
+		},
+		{
+			"LedOn": 1,
+			"SetByNfc": 1,
+			"UnsetByNfc": 1
+		}
+	],
+
+	"Layout": {
+        "ImageCompressionMode" : 2,
+		"BGImg": {
+			"Url": "http://nws.netronixinc.com:9090/ntxmedia/sbgt1.bin",
+			"x": 0,
+			"y": 0,
+			"w": 1200,
+			"h": 825
+		},
+
+		"PartialImageCount": 0,
+		"PartialSeqUpdate": 0
+	}
+}
+
